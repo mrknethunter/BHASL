@@ -1,4 +1,4 @@
-# XXXX-1 OMNeT++ Simulation
+# XXXX-1 Baseline Hardened Automotive Software Library (BHASL)
 
 This is an OMNeT++ project that simulates secure communication between components in a car network.
 
