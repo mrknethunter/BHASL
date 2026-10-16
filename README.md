@@ -2,6 +2,8 @@
 
 This is an OMNeT++ project that simulates secure communication between components in a car network.
 
+Link to the main SCAR4SUD Project repo: https://github.com/SCAR4SUD/D3_OMNeT_SCAR4SUD_ARCH
+
 ## Setup
 
 This projects need the following dependencies:
